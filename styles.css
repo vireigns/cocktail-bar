@@ -7,7 +7,6 @@
 
 /* Basic styling */
 body {
-  font-family: "Brush Script MT", cursive;
   color: #333;
   line-height: 1.6;
   background-image: url(background.jpg);
@@ -22,6 +21,7 @@ header {
 }
 
 header h1 {
+  font-family: "Brush Script MT", cursive;
   font-size: 2rem;
   margin-bottom: 0.5rem;
 }
@@ -39,6 +39,7 @@ main {
 }
 
 .cocktail h2 {
+  font-family: "Brush Script MT", cursive;
   color: #af4c8b;
   font-size: 1.8rem;
   margin-bottom: 0.5rem;
