@@ -127,6 +127,11 @@ footer {
 
 /* Responsive design */
 @media (max-width: 768px) {
+  #backgroundImage {
+    background-attachment: scroll; /* Change to scroll for mobile devices */
+    background-size: cover; /* Ensure the background image covers the whole area */
+  }
+  
   .cocktail {
     padding: 1rem;
   }
